@@ -7,7 +7,6 @@ namespace Cypherlead.Api.Models
         public ActionPerformed Action { get; set; }
         public string Description { get; set; }
         public Guid UserId { get; set; }
-        public User User { get; set; }
 
     }
 }
